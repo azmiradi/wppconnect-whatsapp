@@ -76,7 +76,7 @@ export default {
     redisDb: 11628345,
     redisPrefix: 'docker',
     },
-// };
+ };
 //
 // export default {
 //   secretKey: 'THISISMYSECURETOKEN',
